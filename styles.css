@@ -1,12 +1,45 @@
-h1 {
+h1{
     background-color: black;
     color: white;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.great-class {
+    font-size: 18.2px;
+    color: rgb(69, 69, 69);
+}
+.heartbreaking {
+    font-size: 29px;
+}
+.rats {
+    font-size: 29px;
+}
+.fool {
+    font-size:100px;
+}
+.center {
+    text-align: center;
+}
+.return {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link {
+    font-size: larger;
+}
+.text-size {
+    font-size: 20px;
+}
+.important {
+    font-family: 'Times New Roman', Times, serif;
 }
