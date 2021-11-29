@@ -1,2 +1,2 @@
 # odin-recipes
-i have no idea what im doing
+My glorious website
